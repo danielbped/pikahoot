@@ -1,7 +1,6 @@
 # Projeto [Trivia React Redux](https://github.com/tryber/sd-012-project-trivia-react-redux/pull/78)
   - Módulo 2: Desenvolvimento Front-end
   - Bloco 17: Projeto Jogo de  Trivia (Desenvolvido em equipe)
- 
 ### Requisitos
 - [x] Crie a tela de login, onde a pessoa que joga deve preencher as informações para iniciar um 
 - [x] Crie o botão de iniciar o jogo
@@ -25,4 +24,18 @@
 - [x] Ao mudar o valor do dropdown categoria, apenas perguntas da categoria selecionada devem aparecer para a pessoa que está jogando. Essa configuração será identificada pela chave category no retorno da API;
 - [x] Ao mudar o valor do dropdown dificuldade, apenas perguntas da dificuldade selecionada devem aparecer para a pessoa que está jogando. Essa configuração será identificada pela chave difficulty no retorno da API;
 - [x] Ao mudar o valor do dropdown tipo, apenas perguntas do tipo selecionado devem aparecer para a pessoa que está jogando. Essa configuração será identificada pela chave type no retorno da API.
+ 
+ # Página de Login
+ <img src = "/gifs/LoginMob.gif" width=250 />
+ 
+ # Página de configurações
+ <img src = "/gifs/SettingsGif.gif" width=250 />
+ 
+ # Página de erro 
+    - Caso não haja pergunta suficiente de acordo com as configurações
+ <img src = "/gifs/ErrorMob.gif" width=250 />
+ 
+ # Página de feedback
+    - Boa e má pontuação, respectivamente
+ <img src = "/gifs/GoodScoreMob.gif" width=250 />
  
