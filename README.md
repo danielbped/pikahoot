@@ -37,5 +37,5 @@
  
  # Página de feedback
     - Boa e má pontuação, respectivamente
- <img src = "/gifs/GoodScoreMob.gif" width=250 />
+ <img src = "/gifs/GoodScoreMob.gif" width=250/>     <img src = "/gifs/BadScoreMob.gif" width=250 />
  
