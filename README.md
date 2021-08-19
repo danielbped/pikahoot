@@ -43,7 +43,8 @@
   <img src = "/gifs/ErrorMob.gif" width=250 />
  </div>
  
- <h1 align="center">Página de feedback</h1>
+ <h1 align="center">Páginas de feedback</h1>
  <div align="center">
-   <img src = "/gifs/GoodScoreMob.gif" width=250/> <img src = "/gifs/BadScoreMob.gif" width=250 />
+   <img src = "/gifs/GoodScoreMob.gif" width=250/>
+   <img src = "/gifs/BadScoreMob.gif" width=250 />
  </div>
