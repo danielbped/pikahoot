@@ -2,10 +2,56 @@
   - Módulo 2: Desenvolvimento Front-end
   - Bloco 17: Projeto Jogo de  Trivia (Desenvolvido em equipe)
 
-    - Trata-se de um jogo de perguntas e respostas, composto por 5 perguntas de temas aleatórios, de verdadeiro ou falso, ou múltipla escolha.
+  - Trata-se de um jogo de perguntas e respostas, composto por 5 perguntas de temas aleatórios, de verdadeiro ou falso, ou múltipla escolha.
+  - Ferramentas utilizadas:
+    - ReactJS
+    - Redux
+    - Styled Components
+  - [API utilizada](https://opentdb.com/api_config.php)
 
+### Como instalar
+1 - Abra o terminal e crie um diretório de sua preferência com o comando **mkdir**:
+  
+    mkdir projeto-Pikahoot
+    
+  2 - Entre no diretório que acabou de criar e depois clone o projeto com o comando **git clone**:
+  
+    cd projeto-Pikahoot
+    git clone git@github.com:danielbped/mani-deezer.git
+    cd Pikahoot
+    
+  3 - Para o projeto funcionar na sua máquia, será necessário instalar suas dependências, para isso, utilize **npm install**:
+  
+    npm install
+    
+  4 - Pronto, agora o projeto está pronto para ser rodado localmente, utilizando o comando **npm start**:
+  
+    npm start
+    
+### Resultado
+<h1 align="center">Página de Login</h1>
+ <div align="center">
+  <img src = "/gifs/LoginMob.gif" width=250 />
+ </div>
+ 
+ <h1 align="center">Página de configurações</h1>
+ <div align="center">
+  <img align="center" src = "/gifs/SettingsGif.gif" width=250 />
+ </div>
+ 
+ <h1 align="center">Página de erro</h1>
+ <div align="center">
+  <img src = "/gifs/ErrorMob.gif" width=250 />
+ </div>
+ 
+ <h1 align="center">Páginas de feedback</h1>
+ <div align="center">
+   <img src = "/gifs/GoodScoreMob.gif" width=250/>
+   <img src = "/gifs/BadScoreMob.gif" width=250 />
+ </div>
+ 
 ### Requisitos
-- [x] Crie a tela de login, onde a pessoa que joga deve preencher as informações para iniciar um 
+- [x] Crie a tela de login, onde a pessoa que joga deve preencher as informações para iniciar
 - [x] Crie o botão de iniciar o jogo
 - [x] Crie um botão que leva a pessoa para tela de configuração
 - [x] Crie um header que deve conter as informações da pessoa jogadora
@@ -27,24 +73,3 @@
 - [x] Ao mudar o valor do dropdown categoria, apenas perguntas da categoria selecionada devem aparecer para a pessoa que está jogando. Essa configuração será identificada pela chave category no retorno da API;
 - [x] Ao mudar o valor do dropdown dificuldade, apenas perguntas da dificuldade selecionada devem aparecer para a pessoa que está jogando. Essa configuração será identificada pela chave difficulty no retorno da API;
 - [x] Ao mudar o valor do dropdown tipo, apenas perguntas do tipo selecionado devem aparecer para a pessoa que está jogando. Essa configuração será identificada pela chave type no retorno da API.
- 
- <h1 align="center">Página de Login</h1>
- <div align="center">
-  <img src = "/gifs/LoginMob.gif" width=250 />
- </div>
- 
- <h1 align="center">Página de configurações</h1>
- <div align="center">
-  <img align="center" src = "/gifs/SettingsGif.gif" width=250 />
- </div>
- 
- <h1 align="center">Página de erro</h1>
- <div align="center">
-  <img src = "/gifs/ErrorMob.gif" width=250 />
- </div>
- 
- <h1 align="center">Páginas de feedback</h1>
- <div align="center">
-   <img src = "/gifs/GoodScoreMob.gif" width=250/>
-   <img src = "/gifs/BadScoreMob.gif" width=250 />
- </div>
