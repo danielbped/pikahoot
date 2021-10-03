@@ -27,7 +27,15 @@
   4 - Pronto, agora o projeto está pronto para ser rodado localmente, utilizando o comando **npm start**:
   
     npm start
-    
+
+### Testes unitários (RTL)
+- [x] Página de Login
+- [ ] Página de Questões
+- [ ] Página de Feedback
+- [ ] Página de Erro
+- [ ] Página de Ranking
+- [ ] Página de Configurações
+
 ### Resultado
 <h1 align="center">Página de Login</h1>
  <div align="center">
