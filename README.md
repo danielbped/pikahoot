@@ -17,7 +17,7 @@
   2 - Entre no diretório que acabou de criar e depois clone o projeto com o comando **git clone**:
   
     cd projeto-Pikahoot
-    git clone git@github.com:danielbped/mani-deezer.git
+    git clone git@github.com:danielbped/Pikahoot.git
     cd Pikahoot
     
   3 - Para o projeto funcionar na sua máquia, será necessário instalar suas dependências, para isso, utilize **npm install**:
