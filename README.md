@@ -1,4 +1,4 @@
-# Projeto [Trivia React Redux](https://github.com/tryber/sd-012-project-trivia-react-redux/pull/78)
+# Projeto [Trivia React Redux](https://github.com/betrybe/sd-0x-project-trivia-react-redux)
   - Módulo 2: Desenvolvimento Front-end
   - Bloco 17: Projeto Jogo de  Trivia (Desenvolvido em equipe)
 
