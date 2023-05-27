@@ -10,7 +10,7 @@ import Reset from './components/Reset';
 
 ReactDOM.render(
   <Provider store={ store }>
-    <BrowserRouter>
+    <BrowserRouter basename={ process.env.PUBLIC_URL }>
       <Reset />
       <App />
     </BrowserRouter>
