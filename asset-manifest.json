@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/pikahoot/static/js/main.06713a14.chunk.js",
+    "main.js.map": "/pikahoot/static/js/main.06713a14.chunk.js.map",
+    "runtime-main.js": "/pikahoot/static/js/runtime-main.d024ce9e.js",
+    "runtime-main.js.map": "/pikahoot/static/js/runtime-main.d024ce9e.js.map",
+    "static/js/2.aa37b3be.chunk.js": "/pikahoot/static/js/2.aa37b3be.chunk.js",
+    "static/js/2.aa37b3be.chunk.js.map": "/pikahoot/static/js/2.aa37b3be.chunk.js.map",
+    "index.html": "/pikahoot/index.html",
+    "precache-manifest.6c029de607d652bd21eb68e98dce5924.js": "/pikahoot/precache-manifest.6c029de607d652bd21eb68e98dce5924.js",
+    "service-worker.js": "/pikahoot/service-worker.js",
+    "static/js/2.aa37b3be.chunk.js.LICENSE": "/pikahoot/static/js/2.aa37b3be.chunk.js.LICENSE",
+    "static/media/Loading.svg": "/pikahoot/static/media/Loading.56aa2321.svg",
+    "static/media/trivia.png": "/pikahoot/static/media/trivia.3ccc7685.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d024ce9e.js",
+    "static/js/2.aa37b3be.chunk.js",
+    "static/js/main.06713a14.chunk.js"
+  ]
+}
