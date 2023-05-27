@@ -9,6 +9,8 @@
     - Styled Components
   - [API utilizada](https://opentdb.com/api_config.php)
 
+### [Deploy](https://danielbped.github.io/pikahoot/)
+
 ### Como instalar
 1 - Abra o terminal e crie um diretório de sua preferência com o comando **mkdir**:
   
